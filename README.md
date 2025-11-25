@@ -1,6 +1,4 @@
-Here is a well-structured and detailed README content for your GitHub repository, describing your FoodieBot project:
 
-***
 
 # FoodieBot — Intelligent Conversational AI for Fast Food Recommendations
 
