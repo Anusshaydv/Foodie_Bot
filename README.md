@@ -66,7 +66,7 @@ FoodieBot is an intelligent conversational agent built for a fast-food restauran
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Anussha001/Foodie_Bot.git
+   git clone https://github.com/Anusshaydv/Foodie_Bot.git
    cd Foodie_Bot
    ```
 2. Install dependencies:
